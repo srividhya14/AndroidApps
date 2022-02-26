@@ -1,0 +1,2 @@
+rootProject.name = "formvalidation_models"
+include ':app'
